@@ -52,9 +52,5 @@ The dataset consists of **38,444** customer records with the following features:
 ## Technologies Used
 - **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)**  
 - **Machine Learning: K-Means Clustering**  
-<<<<<<< HEAD
 - **Data Visualization: Seaborn, Matplotlib**  
 
-=======
-- **Data Visualization: Seaborn, Matplotlib** 
->>>>>>> 8d4d455 (updated)
